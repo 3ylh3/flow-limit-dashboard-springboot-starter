@@ -17,3 +17,4 @@ flow-limit仪表盘组件，可以动态监控使用flow-limit组件系统的流
 在输入框输入使用@FlowLimit注解的单个接口名,点击搜索，会显示该接口的通过和限制的请求数量：
 ![接口详情](https://xiaobai-picture.oss-cn-beijing.aliyuncs.com/flow-limit-dashboard/%E6%8E%A5%E5%8F%A3%E8%AF%A6%E7%BB%86%E4%BF%A1%E6%81%AF.png)
 # 下载
+https://github.com/3ylh3/flow-limit-dashboard-springboot-starter/releases
